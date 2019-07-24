@@ -30,7 +30,7 @@ a {
     font-size: 16px;
 }
 
-i :hover {
+i:hover {
     color: black;
 }
 
