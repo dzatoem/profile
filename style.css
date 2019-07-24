@@ -30,6 +30,10 @@ a {
     font-size: 16px;
 }
 
+i :hover {
+    color: black;
+}
+
 .img-circle {
   border-radius: 50%;
 }
